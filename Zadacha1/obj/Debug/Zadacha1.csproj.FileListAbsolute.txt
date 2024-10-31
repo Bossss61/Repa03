@@ -1,0 +1,7 @@
+D:\Практика студентов\Адам\Zadacha1\Zadacha1\bin\Debug\Zadacha1.exe.config
+D:\Практика студентов\Адам\Zadacha1\Zadacha1\bin\Debug\Zadacha1.exe
+D:\Практика студентов\Адам\Zadacha1\Zadacha1\bin\Debug\Zadacha1.pdb
+D:\Практика студентов\Адам\Zadacha1\Zadacha1\obj\Debug\Zadacha1.csproj.AssemblyReference.cache
+D:\Практика студентов\Адам\Zadacha1\Zadacha1\obj\Debug\Zadacha1.csproj.CoreCompileInputs.cache
+D:\Практика студентов\Адам\Zadacha1\Zadacha1\obj\Debug\Zadacha1.exe
+D:\Практика студентов\Адам\Zadacha1\Zadacha1\obj\Debug\Zadacha1.pdb
